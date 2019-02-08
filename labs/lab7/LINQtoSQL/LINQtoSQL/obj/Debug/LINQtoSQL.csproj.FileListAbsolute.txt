@@ -1,0 +1,16 @@
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe.config
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.pdb
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csprojAssemblyReference.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.CoreCompileInputs.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\bin\Debug\myDb.mdf
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\bin\Debug\myDb_log.ldf
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe.config
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csprojAssemblyReference.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.pdb

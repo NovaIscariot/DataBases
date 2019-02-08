@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE p[
+  <!ELEMENT p (doners+)>
+  <!ELEMENT doners (donersId, name, surname, phone_number, country)>
+  <!ELEMENT donersId (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT surname (#PCDATA)>
+  <!ELEMENT phone_number (#PCDATA)>
+  <!ELEMENT country (#PCDATA)>	
+]>
+
+<p>
+<?refreshData daily?>
+<![CDATA[<?xml version="1.0"?>]]>
+
+  <doners>
+    <donersId>300</donersId>
+    <name>Tootsie</name>
+    <surname>Fulbrook</surname>
+    <phone_number>730-141-5135</phone_number>
+    <country>France</country>
+    <!-- first comment -->	
+  </doners>
+  <doners>
+    <donersId>2</donersId>
+    <name>Der</name>
+    <surname>Ramsier</surname>
+    <phone_number>802-136-2007</phone_number>
+    <country>Russia</country>
+    <!-- second comment -->
+  </doners>
+  <doners>
+    <donersId>3</donersId>
+    <name>Rosabelle</name>
+    <surname>Perford</surname>
+    <phone_number>397-917-4889</phone_number>
+    <country>France</country>
+    <!-- third comment -->
+  </doners>  
+  <doners>
+    <donersId>17</donersId>
+    <name>Carmine</name>
+    <surname>Blackah</surname>
+    <phone_number>916-512-3667</phone_number>
+    <country>England</country>
+    <!-- forth comment -->
+  </doners>
+  <doners>
+    <donersId>42</donersId>
+    <name>Rancell</name>
+    <surname>Wicklin</surname>
+    <phone_number>572-789-8273</phone_number>
+    <country>Russia</country>
+    <!-- fifth comment -->
+  </doners>
+  <doners>
+    <donersId>202</donersId>
+    <name>John</name>
+    <surname>McLoking</surname>
+    <phone_number>111-111-3456</phone_number>
+    <country>France</country>
+    <!-- sixth comment -->
+  </doners>
+</p>

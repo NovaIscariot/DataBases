@@ -1,0 +1,18 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Couriers (Courier)+>
+<!ATTLIST Couriers
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Courier (Name,CurrentDelivery?)>
+<!ATTLIST Courier
+  xmlns CDATA #FIXED ''
+  Id CDATA #REQUIRED>
+
+<!ELEMENT Name (#PCDATA)>
+<!ATTLIST Name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CurrentDelivery (#PCDATA)>
+<!ATTLIST CurrentDelivery
+  xmlns CDATA #FIXED ''>

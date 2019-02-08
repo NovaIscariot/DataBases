@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="myDb" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\myDb.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="LINQtoSQL.Properties.Settings" SettingsPropertyName="myDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CourierTable" Member="CourierTable">
+    <Type Name="CourierTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentDelivery" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Experience" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="CourierTable_DeliveryTable" Member="DeliveryTable1" ThisKey="Id" OtherKey="CourierId" Type="DeliveryTable" />
+      <Association Name="CourierTable_DoneDeliveryTable" Member="DoneDeliveryTable" ThisKey="Id" OtherKey="CourierId" Type="DoneDeliveryTable" />
+      <Association Name="DeliveryTable_CourierTable" Member="DeliveryTable" ThisKey="CurrentDelivery" OtherKey="Id" Type="DeliveryTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DeliveryTable" Member="DeliveryTable">
+    <Type Name="DeliveryTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CourierId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="DeliveryTable_CourierTable" Member="CourierTable" ThisKey="Id" OtherKey="CurrentDelivery" Type="CourierTable" />
+      <Association Name="CourierTable_DeliveryTable" Member="CourierTable1" ThisKey="CourierId" OtherKey="Id" Type="CourierTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DoneDeliveryTable" Member="DoneDeliveryTable">
+    <Type Name="DoneDeliveryTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CourierId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="CourierTable_DoneDeliveryTable" Member="CourierTable" ThisKey="CourierId" OtherKey="Id" Type="CourierTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

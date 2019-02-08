@@ -1,0 +1,17 @@
+USE myDb
+GO
+
+DROP TRIGGER info ON DATABASE
+GO
+
+CREATE TRIGGER info ON DATABASE
+FOR CREATE_TABLE
+AS
+	SELECT name, create_date FROM sys.tables
+	WHERE tables.name = EVENTDATA().value('(/EVENT_INSTANCE/ObjectName)[1]','nvarchar(max)');
+GO
+
+DROP TABLE JUNK
+
+CREATE TABLE JUNK(id INT)
+

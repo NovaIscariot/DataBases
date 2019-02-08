@@ -1,0 +1,21 @@
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe.config
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.pdb
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csprojAssemblyReference.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csproj.CoreCompileInputs.cache
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.exe
+C:\Users\dvfir\Documents\3 курс\Базы данных\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe.config
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csprojAssemblyReference.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csproj.CoreCompileInputs.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\7 лаба бд\7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe.config
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\bin\Debug\FiveSelect.pdb
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csprojAssemblyReference.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.csproj.CoreCompileInputs.cache
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.exe
+C:\Users\Keenshi\Desktop\Учеба\5\БД\labs\lab7\FiveSelect\FiveSelect\obj\Debug\FiveSelect.pdb
